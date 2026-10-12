@@ -4,7 +4,7 @@
 
 **Setup** (enough for a reader to reproduce your capture):
 ```
-claude --version:  TODO
+claude --version:  2.1.292
 mitmproxy version: TODO
 proxy command:     TODO
 settings file:     TODO (path + env block)
